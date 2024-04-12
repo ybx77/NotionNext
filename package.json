@@ -1,16 +1,16 @@
 {
     "name": "duoxiaonian",
-    "version": "",
-    "homepage": "",
+    "version": "4.42",
+    "homepage": "1",
     "license": "MIT",
     "repository": {
-        "type": "",
-        "url": ""
+        "type": "1",
+        "url": "1"
     },
     "author": {
-        "name": "",
-        "email": "",
-        "url": ""
+        "name": "1",
+        "email": "1",
+        "url": "1"
     },
     "scripts": {
         "dev": "next dev",
